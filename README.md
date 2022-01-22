@@ -1,4 +1,4 @@
-# fake-news-detection
+# Detection Of Fake News Using Machine Learning
 
 This is a group project with contributions from
 - Hamza Luqman
